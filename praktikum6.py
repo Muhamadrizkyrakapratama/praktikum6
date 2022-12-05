@@ -1,13 +1,9 @@
-### Nama    : Muhammad Rizky Raka Pratama <b>
-### NIM     : 312210397 <b>
-### Kelas   : TI.22.A.4 <b>
-### Praktikum <b>
-```sh
 dataMahasiswa = {}
 
 print("=" * 65)
 print("|\tPROGRAM INPUT NILAI MAHASISWA MENGGUNAKAN FUNGSI\t|")
 print("=" * 65)
+
 
 def tambah():
         nama = str(input("Masukan Nama : "))
@@ -79,6 +75,3 @@ while True:
         exit()
     else:
         print("PILIHAN MENU TIDAK ADA!")
-```
-## **FLOWCHART** 
-![img](flowchart.png)
